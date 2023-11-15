@@ -1,0 +1,19 @@
+body {
+    width: 500px;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #summary-text {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
